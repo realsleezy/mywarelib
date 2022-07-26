@@ -1,3 +1,4 @@
+-- (WARNING: This Repository is Licensed! You are not permitted to use/copy this User Interface library)
 local library = { 
 	flags = { }, 
 	items = { } 
@@ -25,13 +26,13 @@ library.theme = {
     tilesize = 75,
     cursor = true,
     cursorimg = "https://t0.rbxcdn.com/42f66da98c40252ee151326a82aab51f",
-    backgroundcolor = Color3.fromRGB(12, 12, 12),
+    backgroundcolor = Color3.fromRGB(20, 20, 20),
     tabstextcolor = Color3.fromRGB(240, 240, 240),
     bordercolor = Color3.fromRGB(60, 60, 60),
-    accentcolor = Color3.fromRGB(28, 56, 139),
-    accentcolor2 = Color3.fromRGB(16, 31, 78),
-    outlinecolor = Color3.fromRGB(50, 168, 82),
-    outlinecolor2 = Color3.fromRGB(50, 168, 82),
+    accentcolor = Color3.fromRGB(252, 3, 65),
+    accentcolor2 = Color3.fromRGB(201, 10, 58),
+    outlinecolor = Color3.fromRGB(40, 40, 40),
+    outlinecolor2 = Color3.fromRGB(0, 0, 0),
     sectorcolor = Color3.fromRGB(30, 30, 30),
     toptextcolor = Color3.fromRGB(255, 255, 255),
     topheight = 48,
